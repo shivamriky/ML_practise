@@ -1,6 +1,6 @@
-#Artificial Intelligence code
+# Artificial Intelligence code
 
-###Projects
+### Projects
 
 1. Udacity Nanodegree - Titanic Survival Exploration
 2. Udacity Nanodegree - Predict Boston Housing Prices
